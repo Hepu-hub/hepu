@@ -1,0 +1,14 @@
+E:\RiderCode\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.exe
+E:\RiderCode\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.deps.json
+E:\RiderCode\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.runtimeconfig.json
+E:\RiderCode\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.dll
+E:\RiderCode\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.pdb
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.AssemblyInfoInputs.cache
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.AssemblyInfo.cs
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.dll
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\refint\ConsoleApp7.dll
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.pdb
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.genruntimeconfig.cache
+E:\RiderCode\ConsoleApp7\obj\Debug\net9.0\ref\ConsoleApp7.dll
