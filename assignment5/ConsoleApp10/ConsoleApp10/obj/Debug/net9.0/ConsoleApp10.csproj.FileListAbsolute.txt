@@ -1,0 +1,14 @@
+E:\RiderCode\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.exe
+E:\RiderCode\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.deps.json
+E:\RiderCode\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.runtimeconfig.json
+E:\RiderCode\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.dll
+E:\RiderCode\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.pdb
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.AssemblyInfoInputs.cache
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.AssemblyInfo.cs
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.dll
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\refint\ConsoleApp10.dll
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.pdb
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.genruntimeconfig.cache
+E:\RiderCode\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0\ref\ConsoleApp10.dll
