@@ -1,0 +1,14 @@
+E:\RiderCode\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+E:\RiderCode\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+E:\RiderCode\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+E:\RiderCode\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+E:\RiderCode\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\RiderCode\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
