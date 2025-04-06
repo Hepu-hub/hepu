@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|e:\\code\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\editorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:editorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|E:\\code\\WindowsFormsApp2\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8923C-D5F4-45E7-BD32-17189B77E7E5}|WindowsFormsApp2.csproj|solutionrelative:editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:05:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:13:54.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\OrderService.cs",
+              "RelativeToolTip": "OrderService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA2wDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:12:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-06T10:59:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-06T11:33:38.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OrderDetail.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\OrderDetail.cs",
+              "RelativeToolTip": "OrderDetail.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:11:37.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderDbContext.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:32:58.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA6wBkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:06:22.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:13:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditOrderForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\EditOrderForm.cs",
+              "RelativeDocumentMoniker": "EditOrderForm.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\EditOrderForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EditOrderForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:14:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditOrderForm.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\EditOrderForm.cs",
+              "RelativeDocumentMoniker": "EditOrderForm.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\EditOrderForm.cs",
+              "RelativeToolTip": "EditOrderForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:14:51.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:27:38.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditOrderForm.Designer.cs",
+              "DocumentMoniker": "E:\\code\\WindowsFormsApp2\\EditOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "EditOrderForm.Designer.cs",
+              "ToolTip": "E:\\code\\WindowsFormsApp2\\EditOrderForm.Designer.cs",
+              "RelativeToolTip": "EditOrderForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:29:46.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
