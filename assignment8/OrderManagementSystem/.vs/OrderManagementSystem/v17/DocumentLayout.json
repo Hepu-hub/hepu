@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\OrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|e:\\code\\ordermanagementsystem\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9325AE8E-6D32-4E5B-AF73-DA6E73787B70}|OrderManagementSystem.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:27:48.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersController.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\OrdersController.cs",
+              "RelativeToolTip": "OrdersController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:02:14.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T11:28:14.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\OrderService.cs",
+              "RelativeToolTip": "OrderService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA2wDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:26:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\IOrderService.cs",
+              "RelativeDocumentMoniker": "IOrderService.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\IOrderService.cs",
+              "RelativeToolTip": "IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:25:42.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OrderDetail.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\OrderDetail.cs",
+              "RelativeToolTip": "OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:25:03.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:24:27.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\code\\OrderManagementSystem\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "E:\\code\\OrderManagementSystem\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:22:53.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

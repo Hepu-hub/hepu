@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\code\\OrderManagementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OrderManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OrderManagementSystem.props",
+      "PackagePath": "build\\OrderManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OrderManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\OrderManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OrderManagementSystem.props",
+      "PackagePath": "buildTransitive\\OrderManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

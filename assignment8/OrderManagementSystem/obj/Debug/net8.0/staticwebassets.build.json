@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "U7s7UASeQQBZNn5MggJkNxJ3hEeTOO7CjhrYB2jhocQ=",
+  "Source": "OrderManagementSystem",
+  "BasePath": "_content/OrderManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrderManagementSystem\\wwwroot",
+      "Source": "OrderManagementSystem",
+      "ContentRoot": "E:\\code\\OrderManagementSystem\\wwwroot\\",
+      "BasePath": "_content/OrderManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\code\\OrderManagementSystem\\wwwroot\\css\\site.css",
+      "SourceId": "OrderManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\code\\OrderManagementSystem\\wwwroot\\",
+      "BasePath": "_content/OrderManagementSystem",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
